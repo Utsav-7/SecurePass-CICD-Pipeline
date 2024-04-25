@@ -1,1 +1,1 @@
-# AWS-Password-Generator-CI-CD
+# AWS-Project-DevOps
